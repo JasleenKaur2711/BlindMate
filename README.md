@@ -1,1 +1,1 @@
-# BlindMate
+# BlindMate: Empowering Accessibility
